@@ -1,0 +1,77 @@
+h1{
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 600;
+}
+
+p{
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 1.2rem;
+    line-height: 2;
+    text-shadow: 2px 2px 5px black;
+}
+
+.navbar {
+    background: rgba(52,72,103,0.8);
+    font-weight: 600;
+}
+
+.navbar-brand {
+    padding: 0 2rem;
+}
+
+.nav-logo {
+    margin-right: 1rem;
+}
+
+.nav-item{
+    padding: 0 2rem;
+}
+
+.view {
+    background-image: url(../images/web-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.web-main {
+    color: white;
+}
+
+.container-fluid {
+    padding: 2%;
+    height: 100%;
+}
+
+.row {
+    padding: 1% 4%;
+    width: 100%;
+}
+
+.carousel-inner {
+    display: inline-flex;
+    width: 300px;
+    max-height: 500px;
+    padding-top: 5%;
+}
+
+#tea-grid {
+    color: white;
+}
+
+#tea-title {
+    color:white;
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+#contact-body {
+    color:white;
+    padding-left: 3%;
+}
+
+#contact-form {
+    color:white;
+    padding: 2% 5%;
+}
