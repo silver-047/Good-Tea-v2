@@ -7,4 +7,6 @@ The Types of Tea page displays a grid of teas that you can select to view more i
 
 The Contact Us page is a place for the user to leave their information and a message behind for the developer of Good Tea.
 
+https://silver-047.github.io/Good-Tea-v2/
+
 -Gratiano Ramsawak
